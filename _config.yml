@@ -1,11 +1,11 @@
 # Site settings
-title: Bebop.C Blog
-SEOTitle: Bebop.C的博客 | Bebop.C Blog
+title: wuzhanglang Blog
+SEOTitle: 舞蟑螂的博客 | Bebop.C Blog
 header-img: img/home-bg.jpg
-email: suburbia.x.chaos@gmail.com
-description: "May Your Heart Be The Map"
+email: wuzhanglang@126.com
+description: "以行践言"
 keyword: ""
-url: "http://playingfingers.com"              # your host, for absolute URL
+url: "https://wuzhanglang.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -13,7 +13,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 # weibo_username:   
-github_username:    chaosinmotion  
+github_username:    wuzhanglang  
 #zhihu_username:     
 #twitter_username:  
 #facebook_username:  
@@ -77,17 +77,5 @@ friends: [
     {
         title: "Bebop.C Blog",
         href: "http://playingfingers.com"
-    },{
-        title: "Spike Spiegel",
-        href: "#"
-    },{
-        title: "Jet Black",
-        href: "#"
-    },{
-        title: "Faye Valentine",
-        href: "#"
-    },{
-        title: "Ein",
-        href: "#"
     }
 ]
